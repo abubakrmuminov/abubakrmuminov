@@ -74,7 +74,7 @@
   
   <!-- Telegram -->
   <a href="https://t.me/abubakr_ai">
-    <img src="https://raw.githubusercontent.com/abubakrmuminov/assalam/main/telegram-pulse.svg" alt="Telegram" width="150">
+  
   </a>
 </p>
 
