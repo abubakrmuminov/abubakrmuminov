@@ -66,43 +66,17 @@
 </p>
 
 <!-- Анимация -->
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-5px); }
-  }
-
-  @keyframes glow {
-    0% { filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5)); }
-    100% { filter: drop-shadow(0 0 15px rgba(255, 255, 255, 1)); }
-  }
-
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.1); }
-    100% { transform: scale(1); }
-  }
-
-  @keyframes rotate {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-
-  /* Применение анимаций */
-  #github-icon {
-    animation: bounce 1s infinite alternate, glow 1.5s infinite alternate;
-  }
-
-  #telegram-icon {
-    animation: pulse 1s infinite alternate, rotate 3s linear infinite;
-  }
-
-  /* Эффект при наведении */
-  #github-icon:hover, #telegram-icon:hover {
-    animation: none;
-    transform: scale(1.2);
-  }
-</style>
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/abubakrmuminov">
+    <img src="https://raw.githubusercontent.com/abubakrmuminov/assalam/main/github-bounce.svg" alt="GitHub" width="150">
+  </a>
+  
+  <!-- Telegram -->
+  <a href="https://t.me/abubakr_ai">
+    <img src="https://raw.githubusercontent.com/abubakrmuminov/assalam/main/telegram-pulse.svg" alt="Telegram" width="150">
+  </a>
+</p>
 
 
 ---
