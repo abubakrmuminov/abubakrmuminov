@@ -52,10 +52,23 @@
 
 ## 🌙 Connect with Me
 <p align="center">
-  <a href="https://github.com/abubakrmuminov"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/abubakrmuminov">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" 
+         alt="GitHub" 
+         style="transition: transform 0.3s, filter 0.3s; display: inline-block;" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)'" />
+  </a>
   <br>
-  <a href="https://t.me/abubakr_ai"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/abubakr_ai">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" 
+         alt="Telegram" 
+         style="transition: transform 0.3s, filter 0.3s; display: inline-block;" 
+         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)'" />
+  </a>
 </p>
+
 
 ---
 
