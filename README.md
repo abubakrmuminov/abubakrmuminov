@@ -52,22 +52,57 @@
 
 ## 🌙 Connect with Me
 <p align="center">
+  <!-- GitHub -->
   <a href="https://github.com/abubakrmuminov">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" 
-         alt="GitHub" 
-         style="transition: transform 0.3s, filter 0.3s; display: inline-block;" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)'" />
+         alt="GitHub" id="github-icon" />
   </a>
-  <br>
+  
+  <!-- Telegram -->
   <a href="https://t.me/abubakr_ai">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" 
-         alt="Telegram" 
-         style="transition: transform 0.3s, filter 0.3s; display: inline-block;" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)'" />
+         alt="Telegram" id="telegram-icon" />
   </a>
 </p>
+
+<!-- Анимация -->
+<style>
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+  }
+
+  @keyframes glow {
+    0% { filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5)); }
+    100% { filter: drop-shadow(0 0 15px rgba(255, 255, 255, 1)); }
+  }
+
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
+
+  @keyframes rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  /* Применение анимаций */
+  #github-icon {
+    animation: bounce 1s infinite alternate, glow 1.5s infinite alternate;
+  }
+
+  #telegram-icon {
+    animation: pulse 1s infinite alternate, rotate 3s linear infinite;
+  }
+
+  /* Эффект при наведении */
+  #github-icon:hover, #telegram-icon:hover {
+    animation: none;
+    transform: scale(1.2);
+  }
+</style>
 
 
 ---
