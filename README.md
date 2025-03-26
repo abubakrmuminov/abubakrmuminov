@@ -1,4 +1,8 @@
-### بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abubakrmuminov/assalam/refs/heads/main/animation.svg" alt="Islamic Calligraphy" width="400">
+</div>
+
+
 
 # ✨ Assalamu Alaikum! I'm [ТВОЙ НИК] ✨
 
