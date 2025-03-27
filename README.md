@@ -69,7 +69,7 @@
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/abubakrmuminov">
-    <img src="https://raw.githubusercontent.com/abubakrmuminov/assalam/main/github-bounce.svg" alt="GitHub" width="150">
+  
   </a>
   
   <!-- Telegram -->
