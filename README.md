@@ -57,33 +57,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 🏆
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abubakrmuminov&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## ⏳ Weekly Coding Stats
-<p align="center">
-  <a href="https://wakatime.com/@5471fb49-841b-46c1-b0dc-d148706888fe"><img src="https://wakatime.com/badge/user/5471fb49-841b-46c1-b0dc-d148706888fe.svg" alt="Total time coded since Mar 29 2025" /></a>
-</p>
-
----
-
-## 🎉 Fun Fact
+## 🎉 Fun Fact 🎉
 > **Coffee is my fuel, JavaScript is my language.** ☕💻
 
 ---
 
-## 🌟 Random Quote
+## 🌟 Random Quote 🌟
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </p>
 
 ---
 
-## 🌙 Connect with Me
+## 🌙 Connect with Me 🌙
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/abubakrmuminov">
