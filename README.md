@@ -78,17 +78,18 @@
 
 ## 🌙 Connect with Me 🌙
 <p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/abubakrmuminov">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" 
-         alt="GitHub" id="github-icon" />
-  </a>
-  
-  <!-- Telegram -->
-  <a href="https://t.me/abubakr_ai">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" 
-         alt="Telegram" id="telegram-icon" />
-  </a>
+<!-- Instagram -->
+<a href="https://instagram.com/abubakr_ai">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+       width="40" height="40" alt="Instagram" style="margin-right: 10px;"/>
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/abubakr_ai">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
+       width="40" height="40" alt="Telegram"/>
+</a>
+
 </p>
 
 ---
