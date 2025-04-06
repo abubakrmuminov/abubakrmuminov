@@ -64,11 +64,6 @@
 
 ---
 
-## 🎉 Fun Fact 🎉
-> **Coffee is my fuel, JavaScript is my language.** ☕💻
-
----
-
 ## 🌟 Random Quote 🌟
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
