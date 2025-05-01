@@ -18,7 +18,7 @@
 ---
 
 ## 🔥 About Me 🔥
-- 🕌 Muslim & Developer 🕌
+- 🧑‍💻 Software Developer 🧑‍💻
 - 🎯 Goal: Become a **Full Stack Developer** 🎯
 - 📖 Currently Learning: **JavaScript & ReactJS** (Backend in the future) 📖
 - 💡 Passionate about: **Programming** 💡
