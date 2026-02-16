@@ -9,7 +9,7 @@
   I'm Abu Bakr, a passionate developer building scalable ecosystems with <b>Kotlin (Android)</b>, <b>NestJS</b>, and <b>Next.js</b>.
   <br><br>
   
-  💡 *“Crafting logic and elegance in every line of code.”*
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Architecting+Scalable+Backends;Building+Modern+Android+Apps;Optimizing+High-Load+Systems" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -23,11 +23,14 @@
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:170409V@gmail.com">
+  <a href="mailto:170409v@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
   <a href="https://www.linkedin.com/in/abubakrmuminov">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/mumin_ink?">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   <a href="https://t.me/abubakr_ai">
     <img src="https://img.shields.io/badge/Telegram-091519?style=for-the-badge&logo=telegram&logoColor=61DAFB" />
@@ -39,10 +42,10 @@
 
 <p align="center">
   <a href="https://github.com/abubakrmuminov">
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&color=3a8296&label=Profile%20Views" />
+    <img src="https://komarev.com/ghpvc/?username=abubakrmuminov&color=3a8296&label=Profile%20Views" />
   </a>
   <a href="https://github.com/abubakrmuminov">
-    <img src="https://img.shields.io/github/followers/YourUsername?label=GitHub%20Followers&color=3a8296&style=flat" />
+    <img src="https://img.shields.io/github/followers/abubakrmuminov?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
 
@@ -66,33 +69,35 @@
 
 ---
 
-### 🔭 Current Focus: Mumin Organization
+### 🔭 Current Focus: [Mumin Organization](https://github.com/mumin-api)
 
-I am the Lead Developer at the **Mumin Organization**, building a comprehensive Islamic knowledge platform:
+I am the Lead Developer at the **[Mumin Organization](https://github.com/mumin-api)**, building a comprehensive Islamic knowledge platform:
 
 -   **Backend:** Powerful NestJS API with rate limiting, billing, and fraud detection.
 -   **Android:** Modern app with Jetpack Compose & Clean Architecture.
 -   **Web:** Next.js Dashboard & Reader tailored for users and admins.
 -   **Infrastructure:** Deployed with Docker, Redis, and PostgreSQL.
 
----
-
-### 📊 GitHub Statistics
-
 <div align="center">
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakrmuminov&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=abubakrmuminov&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+  <a href="https://github.com/mumin-api">
+    <img src="https://img.shields.io/badge/Visit_Organization-Mumin_API-091519?style=for-the-badge&logo=github&logoColor=61DAFB&labelColor=3a8296" />
+  </a>
 </div>
 
 ---
 
-### 🧩 Most Used Languages
+### 🏆 Achievements & Philosophy
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakrmuminov&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+  <a href="https://github.com/abubakrmuminov">
+    <img src="https://img.shields.io/badge/Architecture-Clean_%26_Scalable-091519?style=for-the-badge&labelColor=3a8296&color=091519" />
+  </a>
+  <a href="https://github.com/abubakrmuminov">
+    <img src="https://img.shields.io/badge/Performance-High_Load_Optimized-091519?style=for-the-badge&labelColor=3a8296&color=091519" />
+  </a>
+  <a href="https://github.com/abubakrmuminov">
+    <img src="https://img.shields.io/badge/Code_Quality-Strictly_Tested-091519?style=for-the-badge&labelColor=3a8296&color=091519" />
+  </a>
 </div>
 
 ---
