@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-  <h3>🚀 Full Stack Developer (Android & Backend)</h3>
+  <h3>🚀 Full Stack Developer (Frontend & Backend)</h3>
   <br>
   I'm Abu Bakr, a passionate developer building scalable ecosystems with <b>Kotlin (Android)</b>, <b>NestJS</b>, and <b>Next.js</b>.
   <br><br>
