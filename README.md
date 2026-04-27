@@ -84,6 +84,18 @@ I am the Lead Developer at the **[Mumin Organization](https://github.com/mumin-a
   </a>
 </div>
 
+### 🎯 Featured Projects
+
+Besides the Mumin Organization, I also work on:
+
+- **[pg-smart-search](https://github.com/abubakrmuminov/pg-smart-search)** — Advanced full-text search engine for PostgreSQL with intelligent ranking and optimization.
+
+<div align="center">
+  <a href="https://github.com/abubakrmuminov/pg-smart-search">
+    <img src="https://img.shields.io/badge/pg--smart--search-PostgreSQL_Search_Engine-091519?style=for-the-badge&logo=postgresql&logoColor=61DAFB&labelColor=3a8296" />
+  </a>
+</div>
+
 ---
 
 ### 🏆 Achievements & Philosophy
