@@ -53,10 +53,6 @@
 
 ### 🧠 Core Tech Stack
 <p align="center">
-  <!-- Mobile -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java&theme=light" title="Mobile Development" />
-  </a>
   <!-- Backend -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgresql,redis,prisma,docker&theme=light" title="Backend Architecture" />
